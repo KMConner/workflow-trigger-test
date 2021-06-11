@@ -1,4 +1,4 @@
-# notify-on: error-only
+# notify-on: always
 name: Success Test
 
 on:
