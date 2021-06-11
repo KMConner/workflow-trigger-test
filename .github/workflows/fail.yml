@@ -2,6 +2,7 @@ name: Fail test
 
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   build:
